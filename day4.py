@@ -17,5 +17,13 @@ match Month:
         print("july")
     case 8:
         print("august")
+    case 9:
+        print("september")
+    case 10:
+        print("october")
+    case 11:
+        print("november")
+    case 12:
+        print("december")
     case _:
         print("invalid month")
